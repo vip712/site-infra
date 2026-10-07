@@ -1,0 +1,1 @@
+{"description":"Zero-dependency caching proxy for third-party crypto APIs (tool matrix). Node 18+.","main":"server.js","name":"indie-api-proxy","private":true,"scripts":{"start":"node server.js"},"version":"1.0.0"}
